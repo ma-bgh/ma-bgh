@@ -75,10 +75,6 @@ I'm interested in exploring new technologies, solving challenging problems, and 
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=ma-bgh&show_icons=true&hide_border=true&bg_color=F8DDE8&title_color=354B5E&icon_color=78BBD6&text_color=354B5E&include_all_commits=true" height="165"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ma-bgh&layout=compact&hide_border=true&bg_color=BDE7F5&title_color=354B5E&text_color=354B5E" height="165"/>
-
 <br/><br/>
 
 <img src="https://streak-stats.demolab.com?user=ma-bgh&theme=default&background=F8DDE8&ring=78BBD6&fire=EBAFC6&currStreakLabel=354B5E&sideLabels=354B5E&dates=354B5E&hide_border=true" width="65%"/>
@@ -87,15 +83,6 @@ I'm interested in exploring new technologies, solving challenging problems, and 
 
 ---
 
-## 🌸 Contribution Activity
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ma-bgh&bg_color=F8DDE8&color=354B5E&line=78BBD6&point=EBAFC6&area=true&hide_border=true" width="100%"/>
-
-</div>
-
----
 
 ## 🌱 Areas of Interest
 
